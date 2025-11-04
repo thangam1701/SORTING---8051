@@ -57,13 +57,12 @@ END
 **MEMORY WINDOW:**
 
 Before execution: D:0x40H:
-<BR>
-<BR>
-<BR>
+<img width="1917" height="1143" alt="image" src="https://github.com/user-attachments/assets/27262363-8e50-4d53-8d2d-073b3296d129" />
+
+
 After execution: D:0x40H:
-<BR>
-<BR>
-<BR>
+<img width="1919" height="1140" alt="image" src="https://github.com/user-attachments/assets/39b7059c-6a36-4a67-886a-7cedc5aeb896" />
+
 
 
 **(ii)	Ascending order**
@@ -118,15 +117,12 @@ END
 
 **Before execution:**
 D:0x40H:
-<BR>
-<BR>
-<BR>
-<BR>
+<img width="1919" height="1142" alt="image" src="https://github.com/user-attachments/assets/3f5e27ad-49b3-4aaf-8fb4-fde5174d094a" />
+
 After execution:
 D:0x40H:
-<BR>
-<BR>
-<BR>
+<img width="1919" height="1140" alt="image" src="https://github.com/user-attachments/assets/2df54a54-4ded-4091-a5bf-f4c805de36dc" />
+
 **Result:**
 
 Thus the sorting of given data was done using 8051 keil and shown the output.
